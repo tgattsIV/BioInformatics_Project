@@ -696,25 +696,25 @@ def get_motif(filter_weights_old, filter_outs, testing, y = [], index = 0, dir1 
 ################################################################################
 # __main__
 ################################################################################
-if __name__ == '__main__':
-    main()
-    #get_motif(model, testing, protein, y, index = 0, dir1 = 'seq_cnn/')
-    #pdb.runcall(main)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
+# if __name__ == '__main__':
+#     main()
+#     #get_motif(model, testing, protein, y, index = 0, dir1 = 'seq_cnn/')
+#     #pdb.runcall(main)
+# Footer
+# © 2023 GitHub, Inc.
+# Footer navigation
 
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
+#     Terms
+#     Privacy
+#     Security
+#     Status
+#     Docs
+#     Contact GitHub
+#     Pricing
+#     API
+#     Training
+#     Blog
+#     About
 
-deepRAM/extract_motifs.py at master · MedChaabane/deepRAM
+# deepRAM/extract_motifs.py at master · MedChaabane/deepRAM
 
