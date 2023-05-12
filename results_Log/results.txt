@@ -1,0 +1,2 @@
+N_test_samples       AUROC       AURPC
+  200               0.9486      0.9576
